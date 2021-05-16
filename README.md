@@ -1,1 +1,4 @@
 # skills
+
+
+console.log("hello)
